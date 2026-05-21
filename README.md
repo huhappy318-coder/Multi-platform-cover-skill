@@ -1,4 +1,4 @@
-下载skill，放入对应文件夹，交给codex读取
+<img width="2224" height="1311" alt="image" src="https://github.com/user-attachments/assets/53696f74-e2a2-4fd5-acf9-91e3747ac4d1" />下载skill，放入对应文件夹，交给codex读取
 然后输入“制作封面”等相关表述，开始封面制作
 可以在文件夹内提前放入需要使用的个人IP形象（例如个人照片，动漫角色，动物形象）
 如果未放入任何形象，则封面不会加入任何其他IP内容。
