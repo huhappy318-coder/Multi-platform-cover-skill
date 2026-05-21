@@ -1,4 +1,4 @@
-<img width="2224" height="1311" alt="image" src="https://github.com/user-attachments/assets/53696f74-e2a2-4fd5-acf9-91e3747ac4d1" />下载skill，放入对应文件夹，交给codex读取
+下载skill，放入对应文件夹，交给codex读取
 然后输入“制作封面”等相关表述，开始封面制作
 可以在文件夹内提前放入需要使用的个人IP形象（例如个人照片，动漫角色，动物形象）
 如果未放入任何形象，则封面不会加入任何其他IP内容。
@@ -7,4 +7,6 @@
 codex开始制作符合其他平台尺寸的封面图片
 <img width="2231" height="1375" alt="image" src="https://github.com/user-attachments/assets/2f2f8109-d60c-4293-96c2-125c764c037b" />
 最终效果如图：
-![Uploading image.png…]()
+<img width="2260" height="1280" alt="image" src="https://github.com/user-attachments/assets/7e11d4fe-ef30-42db-9647-96007700dc5e" />
+
+
